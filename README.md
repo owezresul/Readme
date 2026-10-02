@@ -1,40 +1,52 @@
-<h1 align="center">
-  Hi there, I'm Resul!
-</h1>
+# Hi there, I'm Resul 👋
 
-<h3 align="center">
-  Front-end developer 
-</h3>
+🎓 **CS Student at University of Latvia** | 💻 **Full-Stack & Mobile Dev** | 🤖 **AI Solutions & Media Specialist**
 
-<h1>
-  About me:
-</h1>
+I build modern web and mobile apps, with a strong focus on integrating AI tools, automated workflows, and AI-driven media generation.
 
-<ul>
-  <li>learning and work with React</li>
-  <li>have experience in web-design</li>
-  <li>know turkmen, russian and english</li>
-</ul>
+---
 
-<h1>
-  Tech stack:
-</h1>
+### 💼 Experience & Key Highlights
 
-<ul>
-  <p align="left"> <a href="https://github.com/GurbanmyradowSerdar"><img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,&perline=7"> </a> </p>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>React</li>
-  <li>Figma</li>
-</ul>
+* 🤖 **AI Integration & Automation Specialist**: Deeply experienced in leverage AI models, building automated workflows, MCP integrations, and crafting AI-generated ad materials & promotional content.
+* 🌐 **Full-Stack & Mobile Web Developer**: Developed and deployed responsive web platforms using **React, Next.js, and Firebase**, as well as cross-platform mobile apps with **Flutter**.
+* 🎨 **UI/UX & Media Design**: Experienced in UI/UX prototyping with **Figma** and creating visuals/ad creatives for platforms and marketing campaigns.
 
-<h1>
-  Let's chat!
-</h1>
+---
 
-<ul>
-  <li>Telegram: @nurtulbek</li>
-  <li>Instagram: @nurtulbek</li>
-  <li>Gmail: owezresul0@gmail.com</li>
-</ul>
+### 🛠 Tech & AI Stack
+
+**Core Technologies:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**AI & Automation Tools:**
+![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Advertising](https://img.shields.io/badge/AI%20Ads%20%26%20Media-FF4081?style=for-the-badge&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-008080?style=for-the-badge)
+
+**Platforms & Tools:**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 🌐 **Instagram**: [@nurtulbek](https://www.instagram.com/nurtulbek/)

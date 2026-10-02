@@ -37,16 +37,8 @@ I build modern web and mobile apps, with a strong focus on integrating AI tools,
 
 ---
 
-### 📈 GitHub Stats
+- ### 📫 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Connect with Me
-
+- 📱 **WhatsApp**: [Chat on WhatsApp](https://wa.me/37127294250)
 - 🌐 **Instagram**: [@nurtulbek](https://www.instagram.com/nurtulbek/)
+- 💼 **LinkedIn**: [Your LinkedIn Profile](linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/resul-ovezmyradov-a33219313/))

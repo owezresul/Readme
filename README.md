@@ -39,6 +39,6 @@ I build modern web and mobile apps, with a strong focus on integrating AI tools,
 
 - ### 📫 Connect with Me
 
-- 📱 **WhatsApp**: [Chat on WhatsApp](https://wa.me/37127294250)
-- 🌐 **Instagram**: [@nurtulbek](https://www.instagram.com/nurtulbek/)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/resul-ovezmyradov-a33219313/))
+- 📱 **WhatsApp**: [WhatsApp](https://wa.me/37127294250)
+- 🌐 **Instagram**: [Instagram](https://www.instagram.com/nurtulbek/)
+- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/resul-ovezmyradov-a33219313/)
